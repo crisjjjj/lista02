@@ -13,7 +13,7 @@ def main():
         except ValueError:
             print("Por favor, digite um número válido.")
 
-    print("Lista de números digitados:", numeros)
+    print(numeros)
 
 if __name__ == "__main__":
     main()
